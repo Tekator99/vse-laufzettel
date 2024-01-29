@@ -1,6 +1,6 @@
 {
   "name": "vse-laufzettel",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://tekator99.github.io/vse-laufzettel/",
   "type": "module",
